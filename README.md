@@ -10,8 +10,6 @@ This project is a simple web application built using React and Vite, showcasing 
 - [Components](#components)
 - [Instagram Login/Sign Up Page](#instagram-login-sign-up-page)
 - [Counter App](#counter-app)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -30,13 +28,13 @@ To run the project locally, follow these steps:
 2. Clone this repository to your local machine:
 
 ```
-git clone <repository_url>
+git clone https://github.com/Sukomal07/assignment-2.git
 ```
 
 3. Navigate to the project directory:
 
 ```
-cd instagram-login-counter-app
+cd assignment-2
 ```
 
 4. Install the required dependencies using npm:
@@ -73,14 +71,3 @@ The Instagram login and sign-up pages are designed to mimic the appearance and f
 
 The counter app component displays a numerical value along with buttons to increment and decrement that value. It uses React state to maintain the counter's current state and updates the UI accordingly when the user interacts with the buttons.
 
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or would like to add new features, feel free to submit a pull request. Before making changes, please review the [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize, modify, or enhance the components and features as per your requirements. Happy coding! 🚀
